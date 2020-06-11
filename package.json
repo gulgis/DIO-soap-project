@@ -1,0 +1,22 @@
+{
+  "name": "dio-soap-project",
+  "version": "1.0.0",
+  "description": "This repository is for practicing SOAP as a part of Digital Innovation One Bootcamp - Carrefour BackEnd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulgis/DIO-soap-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulgis/DIO-soap-project/issues"
+  },
+  "homepage": "https://github.com/gulgis/DIO-soap-project#readme",
+  "dependencies": {
+    "soap": "^0.31.0"
+  }
+}
